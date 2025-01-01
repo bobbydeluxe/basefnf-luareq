@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pose Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -10],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pose Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pose Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 2],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pose Right",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"indices": [],
+			"name": "Left Flame Loop"
+		},
+		{
+			"offsets": [0, -10],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"indices": [],
+			"name": "Down Flame Loop"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-hold",
+			"indices": [],
+			"name": "Up Flame Loop"
+		},
+		{
+			"offsets": [0, 2],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-hold",
+			"indices": [],
+			"name": "Right Flame Loop"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/darnell",
+	"position": [0, 200],
+	"healthicon": "darnell",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [-150, 40],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
