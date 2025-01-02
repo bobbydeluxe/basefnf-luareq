@@ -6,4 +6,6 @@ you need [this](https://github.com/bobbydeluxe/funkindx-source/tree/main) for it
 
 part of bobby's funkin recode
 
+**note that a-bot's visualizer is NOT accurate to audio**
+
 creds to ledonic
